@@ -6,3 +6,5 @@
 
  const footer="fotter ofr website";
  console.log(footer); 
+ const head="head added to website";
+ console.log(head);
