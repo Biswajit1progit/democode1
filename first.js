@@ -8,3 +8,6 @@
  console.log(footer); 
  const head="head added to website";
  console.log(head);
+
+
+ console.log("the BUg is fixed");
